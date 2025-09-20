@@ -147,12 +147,9 @@ public class SoheeDeveloper {
 ---
 
 ## 📫 연락하기
+- 📧 Email: blackteatime4@naver.com  
+- 📝 Blog: [soheelog.log](https://velog.io/@soheelog/posts)
 
-<div align="center">
-  
-[![Email](https://img.shields.io/badge/Naver-03C75A?style=for-the-badge&logo=naver&logoColor=white)](mailto:blackteatime4@naver.com)
-
-[![Blog](https://img.shields.io/badge/Tech%20Blog-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://velog.io/@soheelog/posts)
 
 
 </div>
