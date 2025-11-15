@@ -77,7 +77,6 @@ public class SoheeDeveloper {
     private String name = "김소희 (Sohee Kim)";
     private String role = "Backend Developer";
     private String[] mainStack = {"Java", "Spring Boot", "JPA", "MySQL", "ORACLE"};
-    private String[] expandingStack = {"Kotlin", "Go", "React", "Clean Architecture"};
     private String certification = "SQLD";
     private String philosophy = "성장이 좋은 개발자의 기본 바탕이다 🌱";
     
