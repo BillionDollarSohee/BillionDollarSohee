@@ -155,7 +155,7 @@ public class SoheeDeveloper {
 <!-- BLOG-POST-LIST:START -->
 - [객체 지향 설계와 스프링의 핵심 철학](https://velog.io/@soheelog/%EA%B0%9D%EC%B2%B4-%EC%A7%80%ED%96%A5-%EC%84%A4%EA%B3%84%EC%99%80-%EC%8A%A4%ED%94%84%EB%A7%81%EC%9D%98-%ED%95%B5%EC%8B%AC-%EC%B2%A0%ED%95%99)
 - [Spring DI 이해하기](https://velog.io/@soheelog/Spring-DI-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
-- [JVM](https://velog.io/@soheelog/JVM)
+- [JVM 동작과정, 가비지 컬렉터](https://velog.io/@soheelog/JVM)
 - [Kotlin에 대하여](https://velog.io/@soheelog/Kotlin%EC%97%90-%EB%8C%80%ED%95%98%EC%97%AC)
 - [Spring MVC의 DispatcherServlet 동작 과정](https://velog.io/@soheelog/Spring-MVC%EC%9D%98-DispatcherServlet-%EB%8F%99%EC%9E%91-%EA%B3%BC%EC%A0%95)
 <!-- BLOG-POST-LIST:END -->
